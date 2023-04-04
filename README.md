@@ -1,12 +1,9 @@
 <h1>Simple CTF</h1>
 
 <h2>Description</h2>
-- <b> Project consists of ubuntu based virtual machine which is intentionally configured vulnerable in order to practise the pentesting methedology.</b>
-<br/>
-- <b> Actual Virtual Machine is located in Google Drive, which can be easily accessed from <a href="https://drive.google.com/drive/folders/1Tc9_bJLo-6UevsyyShogm8xHJJnVbD2G?usp=share_link">here.</a>. Instructions to setup the machine is mentioned below.
 
-<br />
-
+- <b> Project consists of ubuntu based virtual machine which is intentionally configured vulnerable in order to practise the pentesting methedology.</b><br/>
+- <b> Actual Virtual Machine is located in Google Drive, which can be easily accessed from <a href="https://drive.google.com/drive/folders/1Tc9_bJLo-6UevsyyShogm8xHJJnVbD2G?usp=share_link">here.</a>. Instructions to setup the machine is mentioned below.<br />
 
 <h2>Environment Used</h2>
 
@@ -30,7 +27,7 @@
 - <b>Now, lets setup our victim.</b></br>
 - <b> Download the victim from <a href="https://drive.google.com/drive/folders/1Tc9_bJLo-6UevsyyShogm8xHJJnVbD2G?usp=share_link">here.</a></b></br>
 - <b> Once downloaded, unzip it using Winrar/7zip and double click on the <i><b>.ovf</b></i> file.</b></br>
-- <b> It will promt to give the name. You can name it anything, I gave ctf_machine</b></br> <img src="https://github.com/itsme-jdl/Simple_ctf/blob/main/Ctf_walkthroughs/vm%20setup.jpg" height="80%" width="80%" alt="VM Setup"/><br /><br /><br />
+- <b> It will promt to give the name. You can name it anything, I gave ctf_machine</b></br></br> <img src="https://github.com/itsme-jdl/Simple_ctf/blob/main/Ctf_walkthroughs/vm%20setup.jpg" height="80%" width="80%" alt="VM Setup"/><br /><br /><br />
  
 - <b> Then click on import. It will start importing...</b></br><br /><br /> <img src="https://github.com/itsme-jdl/Simple_ctf/blob/main/Ctf_walkthroughs/importing.jpg" height="80%" width="80%" alt="VM Setup"/><br /><br /><br />
 
